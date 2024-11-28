@@ -72,7 +72,8 @@ y_prednew=predict(theta,xnew)
 print("Predicted Result:",y_prednew)
 
 ## Output:
-!(https://github.com/user-attachments/assets/e66439eb-8961-4e79-8526-d4b96a9569fe)
+![Screenshot 2024-11-24 171213](https://github.com/user-attachments/assets/8c6a32b0-65f3-445b-812b-c187b0ba93f5)
+
 
 
 
