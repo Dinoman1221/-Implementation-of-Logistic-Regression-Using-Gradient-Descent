@@ -70,7 +70,8 @@ print("Actual:\n",y.values)
 xnew=np.array([[0,87,0,95,0,2,78,2,0,0,1,0]])
 y_prednew=predict(theta,xnew)
 print("Predicted Result:",y_prednew)
-
+*/
+```
 ## Output:
 ![Screenshot 2024-11-24 171213](https://github.com/user-attachments/assets/8c6a32b0-65f3-445b-812b-c187b0ba93f5)
 
