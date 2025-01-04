@@ -73,7 +73,8 @@ print("Predicted Result:",y_prednew)
 */
 ```
 ## Output:
-![Screenshot 2024-11-24 171213](https://github.com/user-attachments/assets/8c6a32b0-65f3-445b-812b-c187b0ba93f5)
+![image](https://github.com/user-attachments/assets/fe76f583-9340-4101-839f-988dd8f4af36)
+
 
 
 
